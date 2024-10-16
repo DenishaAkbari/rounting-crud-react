@@ -1,0 +1,41 @@
+
+h1 {
+  color: #4a4a4a; 
+  font-weight: bold;
+}
+form {
+  background-color: #ffffff; 
+  border-radius: 15px;
+  padding: 30px;
+  /* border: 2px solid #b0e0e6;  */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+  border-radius: 10px;
+  border: 2px solid #4a4a4a; 
+  padding: 12px;
+  font-size: 16px;
+  /* background-color: #f0f8ff; */
+}
+
+label {
+  color: #4a4a4a; 
+  font-weight: bold;
+}
+.btn-primary {
+  background-color: #4a4a4a; 
+  border: none;
+  border-radius: 5px;
+  padding: 12px 25px;
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+textarea {
+  border-radius: 10px;
+  border: 2px solid #0d0d0d; 
+  padding: 12px;
+  font-size: 16px;
+  background-color: #f0f8ff;
+}
